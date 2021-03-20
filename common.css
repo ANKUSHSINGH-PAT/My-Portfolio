@@ -1,0 +1,19 @@
+.header
+{
+	color:red;
+	text-align: center;
+	font-style: italic;
+	background: grey;
+}
+.main
+{
+	color:blue;
+	text-align: center;
+	background: yellow;
+}
+.main1
+{
+	font-size: 80
+	font-style: italic;
+	color:red;
+}
